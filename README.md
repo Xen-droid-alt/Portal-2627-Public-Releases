@@ -16,4 +16,6 @@ Here's a list of maps you can explore:
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 To install the mod: unpack the zip folder and place the portal_2627 folder in your steam/steamapps/sourcemods Folder. 
 
+Download the newest release from the releases page. Whatever files and folders seen above are patched/ improved files. Download the latest release first, and then copy the contents from the main page and replace the older files with the newer files found above. 
+
 Most relases of this mod will have a different foloder name than just portal_2627. The current release foldoer has the folder name portal_2627_alpha_1, so you should place that folder in your sourcemods folder. When the project is finallout out of Beta Phase of Deveopment, the folder name will just be portal_2627.
