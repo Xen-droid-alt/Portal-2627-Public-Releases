@@ -6,7 +6,7 @@ This repo is for the public relases that don't contain experimental or unfinishe
 To make this mod at least a little bit more enjoyable, all of the maps can be seletced in the bonus maps menu, all organized into folders!
 
 Here's a list of maps you can explore:
-* Custom Portal 2627 Campaign (There is only 1 Map for thsi campaign)
+* Custom Portal 2627 Campaign (There is only 1 Map for this campaign)
 * 2006 Campaign
 * 2007 Campaign
 * Beta Still Alive Maps
